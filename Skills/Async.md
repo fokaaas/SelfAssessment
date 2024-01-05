@@ -1,95 +1,95 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Event loop 🎓 known
+  - try..catch 🖐️ used
+  - Non-blocking 🎓 known
+  - Async I/O 🔬 researched
+  - Thread pool 🔬 researched
+  - Pattern Reactor 👂 heard
+  - CAS operations 👂 heard
+  - epoll 👂 heard
+  - kqueue 👂 heard
+  - Completion ports 👂 heard
+  - Event ports 👂 heard
+  - libuv 🔬 researched
+  - Race conditions 👂 heard
+  - Dead locks 👂 heard
+  - Live locks 👂 heard
+  - Concurrent programming 👂 heard
+  - Parallel programming 👂 heard
+  - Actor Model 👂 heard
+  - Thread 👂 heard
+  - Process 👂 heard
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
+  - Callbacks 🎓 known
+  - Callback-last-error-first 🎓 known
+  - Thenable 🖐️ used
+  - Promise 🖐️ used
+  - Async/await 🎓 known
+  - Future 🎓 known
+  - Deferred 🎓 known
+  - Sync generator 🎓 known
+  - Async Generator 🎓 known
+  - Async Iterator 🎓 known
+  - Event 🖐️ used
+  - Coroutine 👂 heard
+  - Goroutine 👂 heard
+  - Signal 🎓 known
+  - Stream 🎓 known
+  - Chain of responsibility 👂 heard
+  - Middleware 🎓 known
+  - Locks 🎓 known
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose
-  - async compose
+  - callbackify 🖐️ used
+  - promisify 🖐️ used
+  - asyncify 🖐️ used
+  - callbacks compose 🎓 known
+  - async compose 🎓 known
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
+  - EventEmitter 🎓 known
+  - Observable/Observer 🖐️ usedв
+  - Readable 🎓 known
+  - Writable 🎓 known
+  - Transform 🖐️ used
+  - Async Pool 🎓 known
+  - Async Queue 🎓 known
+  - Async Collector 🖐️ used
+  - Semaphore 👂 heard
+  - Mutex 👂 heard
+  - Spin Lock 👂 heard
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
-  - child_process
-  - worker_threads
-  - Atomics
-  - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
-  - Error handling in async code
-  - Better stack traces with return await
-  - JSON: streaming serialization
-  - promisify
-  - callbackify
-  - AsyncLocalStorage
-  - AsyncResource
+  - Timers 🔬 researched
+  - setImmediate 🔬 researched
+  - nextTick 🔬 researched
+  - AbortController 👂 heard
+  - AbortSignal 👂 heard
+  - Promise unhandled rejection 👂 heard
+  - Promise double resolve 👂 heard
+  - child_process 👂 heard
+  - worker_threads 👂 heard
+  - Atomics 👂 heard
+  - High resolution clock 🔬 researched
+  - Callback hell 🔬 researched
+  - Promise hell 👂 heard
+  - ref() and unref() 🎓 known
+  - Error handling in async code 🙋 explained
+  - Better stack traces with return await 🎓 known
+  - JSON: streaming serialization 🎓 known
+  - promisify 🖐️ used
+  - callbackify 🖐️ used
+  - AsyncLocalStorage 👂 heard
+  - AsyncResource 👂 heard
 - Techniques
-  - async.js library
-  - RxJS library
-  - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
-  - Web Locks API
-  - IPC
-  - Channel API
-  - Revealing Constructor
-  - Web Locks API
+  - async.js library 🖐️ used
+  - RxJS library 🖐️ used
+  - Async composition 🎓 known
+  - Promise.all 🙋 explained
+  - Promise.allSettled 🙋 explained
+  - Promise.race 🙋 explained
+  - Promise.any 🙋 explained
+  - Web Locks API 🎓 known
+  - IPC 👂 heard
+  - Channel API 🎓 known
+  - Revealing Constructor 👂 heard
+  - Web Locks API 👂 heard
