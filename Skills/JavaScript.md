@@ -1,13 +1,13 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 🙋 explained
-  - this 🙋 explained
+  - Object 🔬 researched
+  - this 🔬 researched
   - arrow function 🙋 explained
   - async function 🙋 explained
-  - call 🙋 explained
-  - bind 🖐️ used
-  - apply 🖐️ used
+  - call 📢 talked
+  - bind 📢 talked
+  - apply 📢 talked
   - instanceof 🙋 explained
   - ...spread 🖐️ used
   - ...rest 🖐️ used
@@ -24,21 +24,21 @@
   - globalThis 🎓 known
   - window 🎓 known
   - getters and setters 🚀 constructed
-  - __proto__ 🎓 known
-  - prototype 🖐️ used
+  - __proto__ 🔬 researched
+  - prototype 🔬 researched
   - equality operators 🙋 explained
   - logical operators 🙋 explained
   - bitwise operators 📢 talked
   - ternary operator 🖐️ used
   - void 🎓 known
-  - yield 🎓 known
+  - yield 🚀 constructed
   - await 🎓 known
   - template literal 🎓 known
   - strict mode 🙋 explained
   - delete 🙋 explained
   - in 🙋 explained
   - super 🙋 explained
-  - Symbol 🎓 known
+  - Symbol 🚀 constructed
   - Reflect 🎓 known
 - Statements
   - if 🙋 explained
@@ -51,12 +51,12 @@
   - throw 🙋 explained
   - break 🙋 explained
   - continue 🙋 explained
-  - import 🙋 explained
-  - export 🙋 explained
+  - import 🔬 researched
+  - export 🔬 researched
   - label 🙋 explained
   - try..catch 🙋 explained
   - switch 🙋 explained
-  - class 🙋 explained
+  - class 🔬 researched
   - new Error 🙋 explained
   - with 🙋 explained
 - Functions
@@ -67,23 +67,23 @@
   - functional object 🙋 explained
 - Data structures
   - Array 🙋 explained
-  - mixin 🎓 known
+  - mixin 🚀 constructed
   - extend 🎓 known
   - typed arrays 🙋 explained
   - Map 🙋 explained
   - Set 🙋 explained
   - undefined 🙋 explained
   - null 🙋 explained
-  - Proxy 🎓 known
+  - Proxy 🚀 constructed
   - weak collections 👂 heard
-  - timers 🎓 known
+  - timers 🔬 researched
   - EventEmitter 🔬 researched
   - RegExp 🔬 researched
   - Date 🎓 known
   - BigInt 🎓 known
 - Infrastructure
-  - V8 🎓 known
-  - Node.js 🎓 known
-  - npm 🎓 known
-  - prettier 🎓 known
-  - MDN 🎓 known
+  - V8 🔬 researched
+  - Node.js 🔬 researched
+  - npm 🔬 researchedn
+  - prettier 🔬 researched
+  - MDN 🔬 researched
