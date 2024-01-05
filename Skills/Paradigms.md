@@ -7,7 +7,7 @@
   - Non-structured programming 🎓 known
   - Functional programming 🔬 researched
   - Prototype-based programming 🖐️ used
-  - Object-oriented programming 🖐️ used
+  - Object-oriented programming 🔬 researched
   - Object-based programming 🖐️ used
   - Generic programming 👂 heard
   - Concurrent computing 👂 heard
@@ -17,29 +17,29 @@
   - FRP (Functional-reactive) 👂 heard
   - Automata-based programming
   - Domain-specific languages 👂 heard
-  - Multi-paradigm programming 🖐️ used
+  - Multi-paradigm programming 🔬 researched
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor 🖐️ used
-  - new 🖐️ used
-  - Static method 🖐️ used
-  - Method 🖐️ used
-  - Async method 🖐️ used
+  - constructor 🔬 researched
+  - new 🔬 researched
+  - Static method 🔬 researched
+  - Method 🔬 researched
+  - Async method 🔬 researched
   - Getters, Setters 🚀 constructed
-  - Public fields 🖐️ used
-  - Private fields 🖐️ used
-  - Field declarations 🖐️ used
-  - Inheritance 🖐️ used
-  - Parent class 🖐️ used
-  - Polymorphism 🖐️ used
-  - Abstract class 👂 heard
-  - Interface 👂 heard
-  - Encapsulation 🎓 known
+  - Public fields 🔬 researched
+  - Private fields 🔬 researched
+  - Field declarations 🔬 researched
+  - Inheritance 🔬 researched
+  - Parent class 🔬 researched
+  - Polymorphism 🔬 researched
+  - Abstract class 🔬 researched
+  - Interface 🔬 researched
+  - Encapsulation 🔬 researched
   - Hidden class 🎓 known
-  - Object form 🎓 known
-  - instance 🖐️ used
-  - Introspection 🖐️ used
+  - Object form 🔬 researched
+  - instance 🔬 researched
+  - Introspection 🔬 researched
   - Reflection 🖐️ used
 - Patterns
   - Singleton 🎓 known

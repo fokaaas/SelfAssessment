@@ -13,32 +13,32 @@
   - Completion ports 👂 heard
   - Event ports 👂 heard
   - libuv 🔬 researched
-  - Race conditions 👂 heard
-  - Dead locks 👂 heard
-  - Live locks 👂 heard
-  - Concurrent programming 👂 heard
-  - Parallel programming 👂 heard
-  - Actor Model 👂 heard
-  - Thread 👂 heard
-  - Process 👂 heard
+  - Race conditions 🎓 known
+  - Dead locks 🎓 known
+  - Live locks 🎓 known
+  - Concurrent programming 🎓 known
+  - Parallel programming 🎓 known
+  - Actor Model 🎓 known
+  - Thread 🎓 known
+  - Process 🎓 known
 - Async contracts
-  - Callbacks 🎓 known
-  - Callback-last-error-first 🎓 known
+  - Callbacks 🚀 constructed
+  - Callback-last-error-first 🚀 constructed
   - Thenable 🖐️ used
   - Promise 🖐️ used
-  - Async/await 🎓 known
+  - Async/await 🚀 constructed
   - Future 🎓 known
   - Deferred 🎓 known
   - Sync generator 🎓 known
   - Async Generator 🎓 known
-  - Async Iterator 🎓 known
+  - Async Iterator 🚀 constructed
   - Event 🖐️ used
   - Coroutine 👂 heard
   - Goroutine 👂 heard
   - Signal 🎓 known
   - Stream 🎓 known
   - Chain of responsibility 👂 heard
-  - Middleware 🎓 known
+  - Middleware 🚀 constructed
   - Locks 🎓 known
 - Async adapters and utils
   - callbackify 🖐️ used
@@ -47,13 +47,13 @@
   - callbacks compose 🎓 known
   - async compose 🎓 known
 - Async abstractions interfaces
-  - EventEmitter 🎓 known
+  - EventEmitter 🔬 researched
   - Observable/Observer 🖐️ usedв
-  - Readable 🎓 known
-  - Writable 🎓 known
+  - Readable 🔬 researched
+  - Writable 🔬 researched
   - Transform 🖐️ used
-  - Async Pool 🎓 known
-  - Async Queue 🎓 known
+  - Async Pool 🔬 researched
+  - Async Queue 🔬 researched
   - Async Collector 🖐️ used
   - Semaphore 👂 heard
   - Mutex 👂 heard
@@ -62,16 +62,16 @@
   - Timers 🔬 researched
   - setImmediate 🔬 researched
   - nextTick 🔬 researched
-  - AbortController 👂 heard
-  - AbortSignal 👂 heard
-  - Promise unhandled rejection 👂 heard
+  - AbortController 🙋 explained
+  - AbortSignal 🔬 researched
+  - Promise unhandled rejection 🙋 explained
   - Promise double resolve 👂 heard
-  - child_process 👂 heard
-  - worker_threads 👂 heard
+  - child_process 🔬 researched
+  - worker_threads 🔬 researched
   - Atomics 👂 heard
   - High resolution clock 🔬 researched
   - Callback hell 🔬 researched
-  - Promise hell 👂 heard
+  - Promise hell 🔬 researched
   - ref() and unref() 🎓 known
   - Error handling in async code 🙋 explained
   - Better stack traces with return await 🎓 known
@@ -84,12 +84,12 @@
   - async.js library 🖐️ used
   - RxJS library 🖐️ used
   - Async composition 🎓 known
-  - Promise.all 🙋 explained
-  - Promise.allSettled 🙋 explained
-  - Promise.race 🙋 explained
-  - Promise.any 🙋 explained
+  - Promise.all 🚀 constructed
+  - Promise.allSettled 🚀 constructed
+  - Promise.race 🚀 constructed
+  - Promise.any 🚀 constructed
   - Web Locks API 🎓 known
-  - IPC 👂 heard
+  - IPC 🎓 known
   - Channel API 🎓 known
   - Revealing Constructor 👂 heard
-  - Web Locks API 👂 heard
+  - Web Locks API 🎓 known

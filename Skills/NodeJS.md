@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js 🙋 explained
+  - Strong and weak sides of node.js 🔬 researched
   - Stateful and stateless servers 👂 heard
   - Nonblocking I/O and slocking code 👂 heard
   - Event loop: phases 👂 heard
@@ -11,17 +11,17 @@
   - I/O-bound, CPU-bound, memory-bound tasks 👂 heard
   - Interactive applications (close to real-time) 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules 🎓 known
-  - ECMAScript modules 🎓 known
+  - CommonJS modules 📢 talked
+  - ECMAScript modules 📢 talked
   - node:module 🎓 known
-  - Caching in CJS and ESM 🎓 known
+  - Caching in CJS and ESM 🖐️ used
   - Modules as singletons 👂 heard
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules 🙋 explained
-  - Dependencies: package.json and package lock 🙋 explained
+  - Dependencies: package.json and package lock 🔬 researched
   - Module-based permissions model 👂 heard
   - Isolation with modularity 🙋 explained
-  - Dependency injection 🙋 explained
+  - Dependency injection 📢 talked
   - DI containers 👂 heard
   - Coupling and cohesion 👂 heard
   - Framework agnostic approach 🎓 known
@@ -35,10 +35,10 @@
 - Internal API
   - Streams API 🎓 known
   - Web Streams API 🎓 known
-  - Crypto API 🎓 known
-  - Password hashing with node:crypto.scrypt 🎓 known
+  - Crypto API 🔬 researched
+  - Password hashing with node:crypto.scrypt 🙋 explained
   - Web Crypto API 👂 heard
-  - File system API: sync and async 🎓 known
+  - File system API: sync and async 🙋 explained
   - Copy folder recursively 🎓 known
   - Worker threads 🎓 known
   - Performance hooks 👂 heard
@@ -54,25 +54,25 @@
   - node:child_process
   - MessageChannel, MessagePort 👂 heard
   - BroadcastChannel
-  - Generating crypto random UUID 🙋 explained
+  - Generating crypto random UUID 🔬 researched
   - node:url vs new URL 🙋 explained
   - node:assert 🙋 explained
   - Internationalization
-  - Blob, File, Buffer, node:buffer 🎓 known
+  - Blob, File, Buffer, node:buffer 🖐️ used
   - Module node:zlib 🎓 known
 - Application structure and architecture
-  - Isolation between layer 🎓 known
+  - Isolation between layer 🙋 explained
   - Multilayer approach 🎓 known
   - Separation of concerns 🎓 known
   - Inversion of control 👂 heard
   - Dependency injection 🙋 explained
   - GRASP 🙋 explained
-  - SOLID 🙋 explained
+  - SOLID 🔬 researched
   - GoF patterns 🙋 explained
   - Distributed systems 👂 heard
   - Highload applications 👂 heard
   - Clean architecture 🙋 explained
-  - DDD 🙋 explained
+  - DDD 🔬 researched
   - Message Queue 🙋 explained
   - CQS 👂 heard
   - CQRS 👂 heard
@@ -86,15 +86,15 @@
 - Network
   - IP sticky sessions 🎓 known
   - Endpoint throttling 🎓 known
-  - HTTP(S) 🙋 explained
-  - TCP/SSL 🙋 explained
-  - UDP 🙋 explained
+  - HTTP(S) 🔬 researched
+  - TCP/SSL 🔬 researched
+  - UDP 🔬 researched
   - TLS 👂 heard
   - Websocket 🖐️ used
   - SSE
   - HTTP/3 (QUIC) 👂 heard
   - Long polling 🎓 known
-  - REST 🙋 explained
+  - REST 🔬 researched
   - RPC 🎓 known
   - Routing 🎓 known
   - DoS 👂 heard
@@ -116,10 +116,10 @@
   - Native test runner 🎓 known
   - Logging 🔬 researched
   - Application configuring 🔬 researched
-  - Testing 🎓 known
-  - CI/CD 👂 heard
-  - Readable 👂 heard
-  - Writable 👂 heard
+  - Testing 🔬 researched
+  - CI/CD 🖐️ used
+  - Readable 🎓 known
+  - Writable 🎓 known
   - Transform 🎓 known
   - back pressure
   - Buffer 🎓 known
@@ -136,9 +136,9 @@
   - Query builder 🎓 known
   - Object-Relational Mapping 🎓 known
 - Error handling and debugging
-  - Error 🎓 known
-  - error.cause
-  - error.code
+  - Error 🔬 researched
+  - error.cause 👂 heard
+  - error.code 👂 heard
   - error.message 🎓 known
   - error.stack 🎓 known
   - How to avoid mixins 👂 heard
