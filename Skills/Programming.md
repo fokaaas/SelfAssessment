@@ -4,18 +4,18 @@
   - value 🙋 explained
   - identifier 🙋 explained
   - variable 🔬 researched
-  - constant 🎓 known
-  - scalar 🎓 known
-  - literal 🎓 known
+  - constant 🙋 explained
+  - scalar 🙋 explained
+  - literal 🙋 explained
   - expression 🙋 explained
   - heap 🎓 known
   - function 🙋 explained
   - procedure 🎓 known
   - method 🙋 explained
-  - class 🎓 known
-  - prototype 🙋 explained
-  - event 🙋 explained
-  - type 🙋 explained
+  - class 🔬 researched
+  - prototype 🔬 researched
+  - event 🔬 researched
+  - type 🔬 researched
   - primitive types 🎓 known
   - reference types 🎓 known
   - flag 🎓 known
@@ -24,17 +24,17 @@
   - conditions 🙋 explained
   - loops 🙋 explained
   - assignment 🙋 explained
-  - regular expression 🙋 explained
+  - regular expression 🔬 researched
   - interface 🔬 researched
   - contract 🙋 explained
   - module 🖐️ used
-  - call stack 🖐️ used
+  - call stack 🙋 explained
 - Functions
   - signature 🙋 explained
   - argument 🙋 explained
   - parameter 🙋 explained
-  - pure function 🙋 explained
-  - lambda expression 🙋 explained
+  - pure function 🔬 researched
+  - lambda expression 🔬 researched
   - side effects 🙋 explained
   - closure 🙋 explained
   - partial application 🎓 known
@@ -56,12 +56,12 @@
   - array 🔬 researched
   - structure 🔬 researched
   - record 🎓 known
-  - enum 👂 heard
-  - instance 👂 heard
-  - object 👂 heard
-  - class 👂 heard
-  - collection 🖐️ used
-  - set 🖐️ used
+  - enum 🙋 explained
+  - instance 🔬 researched
+  - object 🔬 researched
+  - class 🔬 researched
+  - collection 🔬 researched
+  - set 🔬 researched
   - hash table 🔬 researched
   - linked list 🔬 researched
   - doubly list 🖐️ used
@@ -70,20 +70,20 @@
   - queue 🔬 researched
   - stack 🔬 researched
   - deque 🔬 researched
-  - tree 🙋 explained
+  - tree 🔬 researched
   - graph 🔬 researched
   - iterator 🙋 explained
   - mutable state 🎓 known
   - immutable state 🎓 known
-  - serialization 🖐️ used
-  - string parsing 🖐️ used
+  - serialization 🙋 explained
+  - string parsing 🙋 explained
 - Process & style
-  - compiler 🎓 known
+  - compiler 🔬 researched
   - transpiler 🎓 known
   - linter 🔬 researched
   - polyfill 🎓 known
   - debugger 🖐️ used
-  - garbage collection 🎓 known
+  - garbage collection 🔬 researched
   - refactoring 🖐️ used
   - code review 🖐️ used
   - antipatterns 🎓 known
@@ -101,6 +101,6 @@
   - duplicate code 🙋 explained
   - exception 🎓 known
   - return early 🎓 known
-  - unittest 🙋 explained
+  - unittest 🔬 researched
   - git 🔬 researched
   - github 🔬 researched
